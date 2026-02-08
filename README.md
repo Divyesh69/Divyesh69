@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @Divyesh69
-- 👀 I’m interested in ... Robotics and OI and AI technology
-- 🌱 I’m currently learning ... raspberry pi and doing projects based on it using Raspberry Pi 3b+
-- 💞️ I’m looking to collaborate on ... google,apple,microsoft or i am wishing to create my own company in future
-- 📫 How to reach me ... my email firedivyesh@gmail.com
-- ⚡ Fun fact: ...I learned html,css,c,cpp,scratch,java,python(also learnt open cv, matplotlib, numpy) but i am !4 years old
+👋 Hi, I’m @Divyesh69
 
-<!---
-Divyesh69/Divyesh69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 👀 I’m interested in **Robotics, IoT, and AI technologies**
+- 🌱 I’m currently learning **Raspberry Pi** and building projects using **Raspberry Pi 3B+**
+- 🏆 **Achievement:** Won **3rd Prize in Model Making** at **VIT Mathematical Meet 2026**
+- 💡 I enjoy turning real-world problems into working hardware + software solutions
+
+## 🤝 Collaboration & Goals
+- 💞️ I’m looking to collaborate with **Google, Apple, Microsoft**
+- 🚀 Long-term goal: **Build my own technology company**
+
+## 📫 Contact
+- Email: **firedivyesh@gmail.com**
+
+## ⚡ Fun Fact
+- I have learned **HTML, CSS, C, C++, Scratch, Java, Python**
+- I also have experience with **OpenCV, Matplotlib, NumPy, and basic TensorFlow Lite**
+- 😄 And yes — I’m **14 years old**
